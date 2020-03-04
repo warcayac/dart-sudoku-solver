@@ -1,0 +1,1 @@
+Para información del programa, [vaya aquí](https://github.com/warcayac/python-sudoku-solver)
