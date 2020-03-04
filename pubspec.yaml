@@ -1,0 +1,7 @@
+name: SudokuSolver
+environment:
+    sdk: '>=2.7.1'
+dependencies:
+    quiver: ^2.1.2+1
+    trotter: ^1.1.1
+    ansicolor: ^1.0.2
